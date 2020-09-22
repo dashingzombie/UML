@@ -3,17 +3,23 @@
 skinparam Style strictuml
 skinparam SequenceMessageAlignment center
 
-"Customer" ->> "Reservation Database" : makes reservation
+actor Customer as Cm
 
-"Reservation Database" ->> "Waiter" : Marks Customer
+Cm ->> CustomerUI : navigate
 
-Customer ->> "Order Database" : Order Food
+CustomerUI ->> Reservation : setReservation
 
-Kitchenstaff ->> "Order Database" :Prepare Order
+Reservation ->> Table : setTable
 
-Waiter ->> Customer : Deliver Food
+Table ->> Order : setOrder
 
-Customer ->> "Order Database" : Make Payment
+Order ->> Food : setFood
 
+Food --> Order : sendFoodinfo
 
+Order ->> Reservation :SendOrderInfo
+
+Reservation --> CustomerUI : requestPayment
+
+CustomerUI ->> Reservation : makePayment
 @enduml

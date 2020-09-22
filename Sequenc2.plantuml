@@ -29,5 +29,24 @@ Customer ->> "Waiter" : Make a Special Request in the order
 "Waiter" ->> Customer : Special Request Confirmed
 
 
+"Order Database" ->> Kitchenstaff : Provide Order Details
+
+Kitchenstaff ->> Kitchenstaff :Prepare Order
+
+Kitchenstaff ->> "Order Database" : Update order
+
+"Order Database" ->> Waiter : Order to Deliver
+
+Waiter ->> Customer : Deliver Food
+
+Customer ->> Customer : Eat Food
+
+Customer ->> "Waiter" : Make Payment
+
+Waiter ->> "Order Database" : Update Order
+
+Customer ->> Waiter :"Give tip"
+
+
 
 @enduml

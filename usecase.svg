@@ -1,26 +1,25 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1067px" preserveAspectRatio="none" style="width:1526px;height:1067px;" version="1.1" viewBox="0 0 1526 1067" width="1526px" zoomAndPan="magnify">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="936px" preserveAspectRatio="none" style="width:1526px;height:936px;" version="1.1" viewBox="0 0 1526 936" width="1526px" zoomAndPan="magnify">
     <defs />
     <g>
         <!--cluster Resturant-->
-        <rect fill="#FFFFFF" height="743" style="stroke: #000000; stroke-width: 1.5;" width="1318" x="197" y="216.5" /><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="77" x="817.5" y="231.4951">Resturant</text>
-        <ellipse cx="329.9259" cy="655.2852" fill="#FEFECE" rx="84.4259" ry="19.2852" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="141" x="259.4259" y="659.9336">Manage Reservation</text>
-        <ellipse cx="330.2254" cy="747.7451" fill="#FEFECE" rx="66.7254" ry="15.7451" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="98" x="281.2254" y="752.3935">Manage Order</text>
+        <rect fill="#FFFFFF" height="612" style="stroke: #000000; stroke-width: 1.5;" width="1318" x="197" y="216.5" /><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="77" x="817.5" y="231.4951">Resturant</text>
+        <ellipse cx="329.9259" cy="652.2852" fill="#FEFECE" rx="84.4259" ry="19.2852" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="141" x="259.4259" y="656.9336">Manage Reservation</text>
+        <ellipse cx="330.2254" cy="722.7451" fill="#FEFECE" rx="66.7254" ry="15.7451" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="98" x="281.2254" y="727.3935">Manage Order</text>
         <ellipse cx="673.8859" cy="429.4772" fill="#FEFECE" rx="67.8859" ry="15.9772" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="101" x="623.3859" y="434.1256">Update Orders</text>
         <ellipse cx="674.2133" cy="655.3427" fill="#FEFECE" rx="79.7133" ry="18.3427" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="130" x="609.2133" y="659.9911">Make a reservation</text>
         <ellipse cx="674.2005" cy="499.4401" fill="#FEFECE" rx="82.7005" ry="18.9401" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="137" x="605.7005" y="504.0885">Modify a reservation</text>
-        <ellipse cx="330.228" cy="923.5456" fill="#FEFECE" rx="85.728" ry="19.5456" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="144" x="258.228" y="928.194">Update Reservations</text>
-        <ellipse cx="330.2005" cy="849.4401" fill="#FEFECE" rx="82.7005" ry="18.9401" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="137" x="261.7005" y="854.0885">Modify a reservation</text>
-        <ellipse cx="673.8339" cy="861.5668" fill="#FEFECE" rx="63.3339" ry="15.0668" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="89" x="629.3339" y="866.2152">Change Seat</text>
-        <ellipse cx="673.8417" cy="927.6683" fill="#FEFECE" rx="66.3417" ry="15.6683" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="97" x="625.3417" y="932.3168">Change Order</text>
-        <ellipse cx="1046.0624" cy="537.5125" fill="#FEFECE" rx="80.5624" ry="18.5125" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="132" x="980.0624" y="542.1609">Delete Reservation</text>
-        <ellipse cx="1045.8371" cy="461.6674" fill="#FEFECE" rx="101.3371" ry="22.6674" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="179" x="956.3371" y="466.3158">Display too late to change</text>
-        <ellipse cx="1045.7756" cy="698.5236" fill="#FEFECE" rx="60.2756" ry="14.5236" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="81" x="1005.2756" y="703.1721">Select table</text>
-        <ellipse cx="1403.4604" cy="704.4921" fill="#FEFECE" rx="95.4604" ry="21.4921" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="166" x="1320.4604" y="709.1405">Enter name and contact</text>
-        <ellipse cx="1046.0143" cy="630.7029" fill="#FEFECE" rx="61.5143" ry="14.7029" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="84" x="1004.0143" y="635.3513">Select order</text>
-        <ellipse cx="1403.5794" cy="562.5159" fill="#FEFECE" rx="65.5794" ry="15.5159" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="95" x="1356.0794" y="567.1643">Browse Menu</text>
-        <ellipse cx="1403.2526" cy="630.3505" fill="#FEFECE" rx="72.2526" ry="16.8505" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="112" x="1347.2526" y="634.999">Special Request</text>
-        <ellipse cx="674.1307" cy="792.5261" fill="#FEFECE" rx="83.1307" ry="19.0261" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="138" x="605.1307" y="797.1746">Mark Order as Done</text>
-        <ellipse cx="674.1565" cy="723.6313" fill="#FEFECE" rx="61.1565" ry="14.6313" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="83" x="632.6565" y="728.2797">View Orders</text>
+        <ellipse cx="330.228" cy="792.5456" fill="#FEFECE" rx="85.728" ry="19.5456" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="144" x="258.228" y="797.194">Update Reservations</text>
+        <ellipse cx="1045.8339" cy="585.5668" fill="#FEFECE" rx="63.3339" ry="15.0668" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="89" x="1001.3339" y="590.2152">Change Seat</text>
+        <ellipse cx="1045.8417" cy="519.6683" fill="#FEFECE" rx="66.3417" ry="15.6683" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="97" x="997.3417" y="524.3168">Change Order</text>
+        <ellipse cx="1046.0624" cy="450.5125" fill="#FEFECE" rx="80.5624" ry="18.5125" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="132" x="980.0624" y="455.1609">Delete Reservation</text>
+        <ellipse cx="1045.8371" cy="374.6674" fill="#FEFECE" rx="101.3371" ry="22.6674" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="179" x="956.3371" y="379.3158">Display too late to change</text>
+        <ellipse cx="1045.7756" cy="720.5236" fill="#FEFECE" rx="60.2756" ry="14.5236" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="81" x="1005.2756" y="725.1721">Select table</text>
+        <ellipse cx="1403.4604" cy="726.4921" fill="#FEFECE" rx="95.4604" ry="21.4921" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="166" x="1320.4604" y="731.1405">Enter name and contact</text>
+        <ellipse cx="1046.0143" cy="652.7029" fill="#FEFECE" rx="61.5143" ry="14.7029" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="84" x="1004.0143" y="657.3513">Select order</text>
+        <ellipse cx="1403.5794" cy="584.5159" fill="#FEFECE" rx="65.5794" ry="15.5159" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="95" x="1356.0794" y="589.1643">Browse Menu</text>
+        <ellipse cx="1403.2526" cy="652.3505" fill="#FEFECE" rx="72.2526" ry="16.8505" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="112" x="1347.2526" y="656.999">Special Request</text>
+        <ellipse cx="674.1307" cy="728.5261" fill="#FEFECE" rx="83.1307" ry="19.0261" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="138" x="605.1307" y="733.1746">Mark Order as Done</text>
+        <ellipse cx="674.1565" cy="797.6313" fill="#FEFECE" rx="61.1565" ry="14.6313" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="83" x="632.6565" y="802.2797">View Orders</text>
         <ellipse cx="673.8859" cy="569.4772" fill="#FEFECE" rx="67.8859" ry="15.9772" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="101" x="623.3859" y="574.1256">Make Payment</text>
         <ellipse cx="330.0271" cy="352.3054" fill="#FEFECE" rx="117.0271" ry="25.8054" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="213" x="223.5271" y="356.9539">Manage Customer Reservation</text>
         <ellipse cx="674.0751" cy="355.715" fill="#FEFECE" rx="104.0751" ry="23.215" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="185" x="581.5751" y="360.3635">View Customer Reservaion</text>
@@ -28,11 +27,11 @@
         <ellipse cx="1045.7578" cy="281.6516" fill="#FEFECE" rx="138.7578" ry="30.1516" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="259" x="916.2578" y="286.3">Add Customer Info to Order Database</text>
         <ellipse cx="329.7712" cy="272.3542" fill="#FEFECE" rx="82.2712" ry="18.8542" style="stroke: #A80036; stroke-width: 1.5;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="136" x="261.7712" y="277.0027">Update Reservation</text>
         <!--entity Customer-->
-        <ellipse cx="47" cy="615" fill="#FEFECE" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;" />
-        <path d="M47,623 L47,650 M34,631 L60,631 M47,650 L34,665 M47,650 L60,665 " fill="none" style="stroke: #A80036; stroke-width: 2.0;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="68" x="13" y="680.9951">Customer</text>
+        <ellipse cx="47" cy="582" fill="#FEFECE" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;" />
+        <path d="M47,590 L47,617 M34,598 L60,598 M47,617 L34,632 M47,617 L60,632 " fill="none" style="stroke: #A80036; stroke-width: 2.0;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="68" x="13" y="647.9951">Customer</text>
         <!--entity KitchenStaff-->
-        <ellipse cx="47" cy="729" fill="#FEFECE" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;" />
-        <path d="M47,737 L47,764 M34,745 L60,745 M47,764 L34,779 M47,764 L60,779 " fill="none" style="stroke: #A80036; stroke-width: 2.0;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="82" x="6" y="794.9951">KitchenStaff</text>
+        <ellipse cx="47" cy="696" fill="#FEFECE" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;" />
+        <path d="M47,704 L47,731 M34,712 L60,712 M47,731 L34,746 M47,731 L60,746 " fill="none" style="stroke: #A80036; stroke-width: 2.0;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="82" x="6" y="761.9951">KitchenStaff</text>
         <!--entity OrderDatabase-->
         <ellipse cx="330" cy="18" fill="#FEFECE" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;" />
         <path d="M330,26 L330,53 M317,34 L343,34 M330,53 L317,68 M330,53 L343,68 " fill="none" style="stroke: #A80036; stroke-width: 2.0;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="105" x="277.5" y="83.9951">OrderDatabase</text>
@@ -40,61 +39,61 @@
         <ellipse cx="330" cy="132" fill="#FEFECE" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;" />
         <path d="M330,140 L330,167 M317,148 L343,148 M330,167 L317,182 M330,167 L343,182 " fill="none" style="stroke: #A80036; stroke-width: 2.0;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="43" x="308.5" y="197.9951">Waiter</text>
         <!--entity ReservationDatabase-->
-        <ellipse cx="674" cy="988" fill="#FEFECE" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;" />
-        <path d="M674,996 L674,1023 M661,1004 L687,1004 M674,1023 L661,1038 M674,1023 L687,1038 " fill="none" style="stroke: #A80036; stroke-width: 2.0;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="148" x="600" y="1053.9951">ReservationDatabase</text>
+        <ellipse cx="674" cy="857" fill="#FEFECE" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;" />
+        <path d="M674,865 L674,892 M661,873 L687,873 M674,892 L661,907 M674,892 L687,907 " fill="none" style="stroke: #A80036; stroke-width: 2.0;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="148" x="600" y="922.9951">ReservationDatabase</text>
         <!--link Customer to Manage Reservation-->
-        <path d="M81.06,645.79 C121.46,647.38 191.27,650.11 246.54,652.27 " fill="none" id="Customer-Manage Reservation" style="stroke: #A80036; stroke-width: 1.0;" />
+        <path d="M81.06,616.32 C124.37,622.64 201.45,633.89 258.21,642.17 " fill="none" id="Customer-Manage Reservation" style="stroke: #A80036; stroke-width: 1.0;" />
         <!--link KitchenStaff to Manage Order-->
-        <path d="M88.26,756.92 C134.17,755.13 209.86,752.16 264.12,750.04 " fill="none" id="KitchenStaff-Manage Order" style="stroke: #A80036; stroke-width: 1.0;" />
+        <path d="M88.26,725.07 C133.94,724.58 209.11,723.78 263.31,723.2 " fill="none" id="KitchenStaff-Manage Order" style="stroke: #A80036; stroke-width: 1.0;" />
         <!--link OrderDatabase to Update Orders-->
         <path d="M382.58,65.71 C404.11,75.03 428.39,87.95 447,104.5 C503.92,155.14 511.22,177.96 540,248.5 C565.19,310.24 525.7,345.66 570,395.5 C581.57,408.52 598.23,416.57 614.79,421.54 " fill="none" id="OrderDatabase-Update Orders" style="stroke: #A80036; stroke-width: 1.0;" />
         <!--link Manage Reservation to Make a reservation-->
-        <path d="M434.88,655.5 C486.14,655.5 546.96,655.5 594.31,655.5 " fill="none" id="Manage Reservation-Make a reservation" style="stroke: #A80036; stroke-width: 1.0;" />
-        <polygon fill="none" points="434.66,662.5,414.66,655.5,434.66,648.5,434.66,662.5" style="stroke: #A80036; stroke-width: 1.0;" />
+        <path d="M434.88,653.41 C486.14,653.86 546.96,654.39 594.31,654.81 " fill="none" id="Manage Reservation-Make a reservation" style="stroke: #A80036; stroke-width: 1.0;" />
+        <polygon fill="none" points="434.6,660.41,414.66,653.23,434.72,646.41,434.6,660.41" style="stroke: #A80036; stroke-width: 1.0;" />
         <!--link Manage Reservation to Modify a reservation-->
-        <path d="M381.47,627.77 C429.23,602.09 503.35,563.74 570,535.5 C587.7,528 607.56,520.79 625.08,514.81 " fill="none" id="Manage Reservation-Modify a reservation" style="stroke: #A80036; stroke-width: 1.0;" />
-        <polygon fill="none" points="384.54,634.06,363.62,637.43,377.87,621.75,384.54,634.06" style="stroke: #A80036; stroke-width: 1.0;" />
+        <path d="M382.37,625.14 C430.22,600.19 503.91,563.11 570,535.5 C587.74,528.09 607.61,520.89 625.12,514.91 " fill="none" id="Manage Reservation-Modify a reservation" style="stroke: #A80036; stroke-width: 1.0;" />
+        <polygon fill="none" points="385.41,631.45,364.45,634.55,378.91,619.05,385.41,631.45" style="stroke: #A80036; stroke-width: 1.0;" />
         <!--link Manage Reservation to Update Reservations-->
-        <path d="M267.95,668.92 C240.47,677.73 209.75,691.94 189,714.5 C120.33,789.17 135,802.99 152,846 C167.18,884.4 208.59,903.79 247.65,913.58 " fill="none" id="Manage Reservation-Update Reservations" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" />
-        <polygon fill="#A80036" points="252.89,914.84,245.0787,908.8414,248.0294,913.6677,243.203,916.6184,252.89,914.84" style="stroke: #A80036; stroke-width: 1.0;" /><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="61" x="119" y="842.0669">«include»</text>
+        <path d="M254.22,661.24 C231.6,666.65 207.84,675.39 189,689.5 C146.37,721.44 129.29,741.95 152,768 C176.32,795.9 216.34,803.2 252.28,803 " fill="none" id="Manage Reservation-Update Reservations" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" />
+        <polygon fill="#A80036" points="257.55,802.92,248.4938,799.049,252.5505,802.9914,248.6081,807.0482,257.55,802.92" style="stroke: #A80036; stroke-width: 1.0;" /><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="61" x="119" y="764.0669">«include»</text>
         <!--link Update Reservations to ReservationDatabase-->
-        <path d="M385.19,938.39 C443.2,954.34 535.57,979.73 599.97,997.43 " fill="none" id="Update Reservations-ReservationDatabase" style="stroke: #A80036; stroke-width: 1.0;" />
-        <!--link Modify a reservation  to Change Seat-->
-        <path d="M411.62,852.33 C470.73,854.4 550.07,857.19 605.78,859.14 " fill="none" id="Modify a reservation -Change Seat" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" />
-        <polygon fill="#A80036" points="611.09,859.33,602.2447,854.9987,606.0934,859.1444,601.9477,862.9932,611.09,859.33" style="stroke: #A80036; stroke-width: 1.0;" /><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="61" x="478" y="851.5669">«include»</text>
-        <!--link Modify a reservation  to Change Order-->
-        <path d="M389.4,862.82 C454.35,877.63 558.31,901.34 620.69,915.57 " fill="none" id="Modify a reservation -Change Order" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" />
-        <polygon fill="#A80036" points="625.85,916.75,617.9685,910.8439,620.9759,915.6351,616.1847,918.6425,625.85,916.75" style="stroke: #A80036; stroke-width: 1.0;" /><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="61" x="478" y="880.5669">«include»</text>
+        <path d="M385.19,807.39 C443.2,823.34 535.57,848.73 599.97,866.43 " fill="none" id="Update Reservations-ReservationDatabase" style="stroke: #A80036; stroke-width: 1.0;" />
+        <!--link Modify a reservation to Change Seat-->
+        <path d="M719.21,515.43 C744.88,524.27 777.99,534.96 808,542.5 C867.87,557.54 937.5,569.53 985.73,576.99 " fill="none" id="Modify a reservation-Change Seat" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" />
+        <polygon fill="#A80036" points="990.91,577.79,982.6345,572.45,985.9698,577.019,981.4008,580.3543,990.91,577.79" style="stroke: #A80036; stroke-width: 1.0;" /><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="61" x="812" y="538.5669">«include»</text>
+        <!--link Modify a reservation to Change Order-->
+        <path d="M747.74,508.21 C767.28,510.26 788.42,512.22 808,513.5 C863.78,517.14 927.07,518.6 974.21,519.18 " fill="none" id="Modify a reservation-Change Order" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" />
+        <polygon fill="#A80036" points="979.3,519.24,970.3463,515.1374,974.3003,519.1829,970.2549,523.1369,979.3,519.24" style="stroke: #A80036; stroke-width: 1.0;" /><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="61" x="812" y="509.5669">«include»</text>
         <!--link Modify a reservation to Delete Reservation-->
-        <path d="M731.96,513.07 C755.39,518.12 782.86,523.38 808,526.5 C858.28,532.73 914.96,535.52 960.28,536.73 " fill="none" id="Modify a reservation-Delete Reservation" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" />
-        <polygon fill="#A80036" points="965.47,536.86,956.5758,532.63,960.4717,536.7315,956.3702,540.6273,965.47,536.86" style="stroke: #A80036; stroke-width: 1.0;" /><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="61" x="812" y="522.5669">«include»</text>
+        <path d="M745.9,490.11 C810.42,481.57 905.32,469 970.84,460.32 " fill="none" id="Modify a reservation-Delete Reservation" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" />
+        <polygon fill="#A80036" points="975.9,459.65,966.4524,456.8674,970.9434,460.3071,967.5037,464.798,975.9,459.65" style="stroke: #A80036; stroke-width: 1.0;" /><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="61" x="812" y="470.5669">«include»</text>
         <!--link Modify a reservation to Display too late to change-->
-        <path d="M755.1,491.27 C813.48,485.28 892.67,477.14 953.54,470.89 " fill="none" id="Modify a reservation-Display too late to change" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" />
-        <polygon fill="#A80036" points="749.88,491.81,759.2438,494.8627,754.8535,491.2955,758.4206,486.9051,749.88,491.81" style="stroke: #A80036; stroke-width: 1.0;" /><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="67" x="809" y="475.5669">«extends»</text>
+        <path d="M725.74,482 C742.47,476.04 761.11,469.19 778,462.5 C791.51,457.15 794.48,454.81 808,449.5 C851.44,432.43 862.57,428.78 907,414.5 C931.34,406.68 958.31,398.71 981.91,391.96 " fill="none" id="Modify a reservation-Display too late to change" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" />
+        <polygon fill="#A80036" points="720.61,483.82,730.4293,484.5826,725.3226,482.1492,727.756,477.0425,720.61,483.82" style="stroke: #A80036; stroke-width: 1.0;" /><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="67" x="809" y="421.5669">«extends»</text>
         <!--link Make a reservation to Select table-->
-        <path d="M744.71,663.97 C765.1,666.43 787.44,669.09 808,671.5 C868.52,678.59 937.76,686.45 985.71,691.85 " fill="none" id="Make a reservation-Select table" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" />
-        <polygon fill="#A80036" points="990.87,692.43,982.3715,687.4525,985.9011,691.8731,981.4805,695.4028,990.87,692.43" style="stroke: #A80036; stroke-width: 1.0;" /><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="61" x="812" y="667.5669">«include»</text>
+        <path d="M737.23,666.83 C759.55,670.86 784.89,675.42 808,679.5 C870.69,690.58 942.76,703 990.81,711.24 " fill="none" id="Make a reservation-Select table" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" />
+        <polygon fill="#A80036" points="995.96,712.12,987.7631,706.6601,991.0315,711.2772,986.4145,714.5457,995.96,712.12" style="stroke: #A80036; stroke-width: 1.0;" /><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="61" x="812" y="675.5669">«include»</text>
         <!--link Select table to Enter name and contact-->
-        <path d="M1106.5,699.5 C1159.95,700.41 1239.5,701.75 1302.68,702.82 " fill="none" id="Select table-Enter name and contact" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" />
-        <polygon fill="#A80036" points="1307.97,702.9,1299.0399,698.7463,1302.9707,702.8143,1298.9028,706.7451,1307.97,702.9" style="stroke: #A80036; stroke-width: 1.0;" /><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="61" x="1216" y="697.5669">«include»</text>
+        <path d="M1106.5,721.5 C1159.95,722.41 1239.5,723.75 1302.68,724.82 " fill="none" id="Select table-Enter name and contact" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" />
+        <polygon fill="#A80036" points="1307.97,724.9,1299.0399,720.7463,1302.9707,724.8143,1298.9028,728.7451,1307.97,724.9" style="stroke: #A80036; stroke-width: 1.0;" /><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="61" x="1216" y="719.5669">«include»</text>
         <!--link Make a reservation to Select order-->
-        <path d="M750.77,650.38 C818.73,645.79 917.34,639.13 981.32,634.8 " fill="none" id="Make a reservation-Select order" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" />
-        <polygon fill="#A80036" points="986.63,634.44,977.3871,631.0388,981.6408,634.7679,977.9117,639.0215,986.63,634.44" style="stroke: #A80036; stroke-width: 1.0;" /><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="61" x="812" y="638.5669">«include»</text>
+        <path d="M753.47,654.86 C820.52,654.32 915.91,653.55 979.08,653.03 " fill="none" id="Make a reservation-Select order" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" />
+        <polygon fill="#A80036" points="984.33,652.99,975.3073,649.0415,979.3301,653.0186,975.353,657.0414,984.33,652.99" style="stroke: #A80036; stroke-width: 1.0;" /><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="61" x="812" y="650.5669">«include»</text>
         <!--link Select order to Browse Menu-->
-        <path d="M1094.21,621.47 C1159.59,608.96 1277.5,586.41 1347.02,573.11 " fill="none" id="Select order-Browse Menu" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" />
-        <polygon fill="#A80036" points="1351.94,572.17,1342.3538,569.9106,1347.0269,573.0983,1343.8392,577.7715,1351.94,572.17" style="stroke: #A80036; stroke-width: 1.0;" /><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="61" x="1216" y="582.5669">«include»</text>
+        <path d="M1094.21,643.47 C1159.59,630.96 1277.5,608.41 1347.02,595.11 " fill="none" id="Select order-Browse Menu" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" />
+        <polygon fill="#A80036" points="1351.94,594.17,1342.3538,591.9106,1347.0269,595.0983,1343.8392,599.7715,1351.94,594.17" style="stroke: #A80036; stroke-width: 1.0;" /><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="61" x="1216" y="604.5669">«include»</text>
         <!--link Select order to Special Request-->
-        <path d="M1107.71,630.5 C1167.91,630.5 1260.37,630.5 1325.66,630.5 " fill="none" id="Select order-Special Request" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" />
-        <polygon fill="#A80036" points="1330.71,630.5,1321.71,626.5,1325.71,630.5,1321.71,634.5,1330.71,630.5" style="stroke: #A80036; stroke-width: 1.0;" /><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="61" x="1216" y="626.5669">«include»</text>
+        <path d="M1107.71,652.5 C1167.91,652.5 1260.37,652.5 1325.66,652.5 " fill="none" id="Select order-Special Request" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" />
+        <polygon fill="#A80036" points="1330.71,652.5,1321.71,648.5,1325.71,652.5,1321.71,656.5,1330.71,652.5" style="stroke: #A80036; stroke-width: 1.0;" /><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="61" x="1216" y="648.5669">«include»</text>
         <!--link Manage Order to Mark Order as Done-->
-        <path d="M408.2,757.66 C466.21,765.29 545.06,775.67 601.61,783.11 " fill="none" id="Manage Order-Mark Order as Done" style="stroke: #A80036; stroke-width: 1.0;" />
-        <polygon fill="none" points="407.16,764.58,388.24,755.03,408.99,750.7,407.16,764.58" style="stroke: #A80036; stroke-width: 1.0;" />
+        <path d="M416.58,724 C469.99,724.94 538.36,726.14 591.07,727.06 " fill="none" id="Manage Order-Mark Order as Done" style="stroke: #A80036; stroke-width: 1.0;" />
+        <polygon fill="none" points="416.41,731,396.54,723.65,416.66,717,416.41,731" style="stroke: #A80036; stroke-width: 1.0;" />
         <!--link Manage Order to View Orders-->
-        <path d="M415.54,743.27 C453.6,741.21 499.08,738.52 540,735.5 C565.43,733.62 593.57,731.14 617.38,728.93 " fill="none" id="Manage Order-View Orders" style="stroke: #A80036; stroke-width: 1.0;" />
-        <polygon fill="none" points="415.87,750.27,395.53,744.34,415.13,736.29,415.87,750.27" style="stroke: #A80036; stroke-width: 1.0;" />
+        <path d="M398.88,737.39 C467.11,752.35 570.3,774.98 628.67,787.78 " fill="none" id="Manage Order-View Orders" style="stroke: #A80036; stroke-width: 1.0;" />
+        <polygon fill="none" points="396.95,744.13,378.91,733.01,399.95,730.45,396.95,744.13" style="stroke: #A80036; stroke-width: 1.0;" />
         <!--link Manage Order to Update Orders-->
-        <path d="M371.84,735.37 C395.98,726.57 425.86,712.64 447,692.5 C530.93,612.54 480.96,536.72 570,462.5 C582.31,452.24 597.86,445.15 613.12,440.26 " fill="none" id="Manage Order-Update Orders" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" />
-        <polygon fill="#A80036" points="618.28,438.69,608.5051,437.4849,613.4968,440.1464,610.8353,445.138,618.28,438.69" style="stroke: #A80036; stroke-width: 1.0;" /><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="61" x="478" y="494.5669">«include»</text>
+        <path d="M389.23,715.33 C409.18,710.57 430.58,702.66 447,689.5 C536.53,617.73 481.66,535.73 570,462.5 C582.34,452.27 597.9,445.2 613.16,440.31 " fill="none" id="Manage Order-Update Orders" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" />
+        <polygon fill="#A80036" points="618.32,438.73,608.5451,437.5249,613.5368,440.1864,610.8753,445.178,618.32,438.73" style="stroke: #A80036; stroke-width: 1.0;" /><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="61" x="478" y="494.5669">«include»</text>
         <!--link Make a reservation to Make Payment-->
         <path d="M674,636.84 C674,623.2 674,604.69 674,590.53 " fill="none" id="Make a reservation-Make Payment" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" />
         <polygon fill="#A80036" points="674,585.52,670,594.52,674,590.52,678,594.52,674,585.52" style="stroke: #A80036; stroke-width: 1.0;" /><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="61" x="632" y="615.8169">«include»</text>
@@ -139,8 +138,8 @@ rectangle Resturant{
    (Manage Reservation) <|-down- (Modify a reservation)
    (Manage Reservation) .> (Update Reservations) : <<include>>
    (Update Reservations) - - ReservationDatabase
-   (Modify a reservation ) .down.> (Change Seat) : <<include>>
-   (Modify a reservation ) .down.> (Change Order) : <<include>>
+   (Modify a reservation) .down.> (Change Seat) : <<include>>
+   (Modify a reservation) .down.> (Change Order) : <<include>>
    (Modify a reservation) .down.> (Delete Reservation) : <<include>>
    (Modify a reservation) <.. (Display too late to change) : <<extends>>
    (Make a reservation) .down.> (Select table) : <<include>>
@@ -168,7 +167,7 @@ rectangle Resturant{
 
 @enduml
 
-PlantUML version 1.2018.14(Fri Dec 21 22:03:16 IST 2018)
+PlantUML version 1.2018.13(Mon Nov 26 22:41:51 IST 2018)
 (GPL source distribution)
 Java Runtime: OpenJDK Runtime Environment
 JVM: OpenJDK 64-Bit Server VM

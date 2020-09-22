@@ -1,0 +1,19 @@
+@startuml
+
+skinparam Style strictuml
+skinparam SequenceMessageAlignment center
+
+"Customer" ->> "Reservation Database" : makes reservation
+
+"Reservation Database" ->> "Waiter" : Marks Customer
+
+Customer ->> "Order Database" : Order Food
+
+Kitchenstaff ->> "Order Database" :Prepare Order
+
+Waiter ->> Customer : Deliver Food
+
+Customer ->> "Order Database" : Make Payment
+
+
+@enduml

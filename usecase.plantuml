@@ -22,8 +22,8 @@ rectangle Resturant{
    (Manage Reservation) <|-down- (Modify a reservation)
    (Manage Reservation) .> (Update Reservations) : <<include>>
    (Update Reservations) -- ReservationDatabase
-   (Modify a reservation ) .down.> (Change Seat) : <<include>>
-   (Modify a reservation ) .down.> (Change Order) : <<include>>
+   (Modify a reservation) .down.> (Change Seat) : <<include>>
+   (Modify a reservation) .down.> (Change Order) : <<include>>
    (Modify a reservation) .down.> (Delete Reservation) : <<include>>
    (Modify a reservation) <.. (Display too late to change) : <<extends>>
    (Make a reservation) .down.> (Select table) : <<include>>

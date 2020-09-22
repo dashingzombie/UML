@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="241px" preserveAspectRatio="none" style="width:598px;height:241px;" version="1.1" viewBox="0 0 598 241" width="598px" zoomAndPan="magnify">
+    <defs />
+    <g>
+        <line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="49" x2="49" y1="34.2969" y2="229.0938" />
+        <line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="192" x2="192" y1="34.2969" y2="229.0938" />
+        <line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="320.5" x2="320.5" y1="34.2969" y2="229.0938" />
+        <line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="420.5" x2="420.5" y1="34.2969" y2="229.0938" />
+        <line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="539.5" x2="539.5" y1="34.2969" y2="229.0938" />
+        <rect fill="#FEFECE" height="30.2969" style="stroke: #A80036; stroke-width: 1.5;" width="82" x="8" y="3" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="68" x="15" y="22.9951">Customer</text>
+        <rect fill="#FEFECE" height="30.2969" style="stroke: #A80036; stroke-width: 1.5;" width="166" x="109" y="3" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="152" x="116" y="22.9951">Reservation Database</text>
+        <rect fill="#FEFECE" height="30.2969" style="stroke: #A80036; stroke-width: 1.5;" width="57" x="292.5" y="3" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="43" x="299.5" y="22.9951">Waiter</text>
+        <rect fill="#FEFECE" height="30.2969" style="stroke: #A80036; stroke-width: 1.5;" width="123" x="359.5" y="3" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="109" x="366.5" y="22.9951">Order Database</text>
+        <rect fill="#FEFECE" height="30.2969" style="stroke: #A80036; stroke-width: 1.5;" width="95" x="492.5" y="3" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="81" x="499.5" y="22.9951">Kitchenstaff</text>
+        <line style="stroke: #A80036; stroke-width: 1.0;" x1="190" x2="180" y1="65.4297" y2="61.4297" />
+        <line style="stroke: #A80036; stroke-width: 1.0;" x1="190" x2="180" y1="65.4297" y2="69.4297" />
+        <line style="stroke: #A80036; stroke-width: 1.0;" x1="49" x2="191" y1="65.4297" y2="65.4297" /><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="119" x="61" y="60.3638">makes reservation</text>
+        <line style="stroke: #A80036; stroke-width: 1.0;" x1="319" x2="309" y1="94.5625" y2="90.5625" />
+        <line style="stroke: #A80036; stroke-width: 1.0;" x1="319" x2="309" y1="94.5625" y2="98.5625" />
+        <line style="stroke: #A80036; stroke-width: 1.0;" x1="192" x2="320" y1="94.5625" y2="94.5625" /><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="105" x="204" y="89.4966">Marks Customer</text>
+        <line style="stroke: #A80036; stroke-width: 1.0;" x1="419" x2="409" y1="123.6953" y2="119.6953" />
+        <line style="stroke: #A80036; stroke-width: 1.0;" x1="419" x2="409" y1="123.6953" y2="127.6953" />
+        <line style="stroke: #A80036; stroke-width: 1.0;" x1="49" x2="420" y1="123.6953" y2="123.6953" /><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="71" x="199.5" y="118.6294">Order Food</text>
+        <line style="stroke: #A80036; stroke-width: 1.0;" x1="421" x2="431" y1="152.8281" y2="148.8281" />
+        <line style="stroke: #A80036; stroke-width: 1.0;" x1="421" x2="431" y1="152.8281" y2="156.8281" />
+        <line style="stroke: #A80036; stroke-width: 1.0;" x1="421" x2="539" y1="152.8281" y2="152.8281" /><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="90" x="435.5" y="147.7622">Prepare Order</text>
+        <line style="stroke: #A80036; stroke-width: 1.0;" x1="49" x2="59" y1="181.9609" y2="177.9609" />
+        <line style="stroke: #A80036; stroke-width: 1.0;" x1="49" x2="59" y1="181.9609" y2="185.9609" />
+        <line style="stroke: #A80036; stroke-width: 1.0;" x1="49" x2="320" y1="181.9609" y2="181.9609" /><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="79" x="145.5" y="176.895">Deliver Food</text>
+        <line style="stroke: #A80036; stroke-width: 1.0;" x1="419" x2="409" y1="211.0938" y2="207.0938" />
+        <line style="stroke: #A80036; stroke-width: 1.0;" x1="419" x2="409" y1="211.0938" y2="215.0938" />
+        <line style="stroke: #A80036; stroke-width: 1.0;" x1="49" x2="420" y1="211.0938" y2="211.0938" /><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="95" x="187.5" y="206.0278">Make Payment</text>
+        <!--
+@startuml
+
+skinparam Style strictuml
+skinparam SequenceMessageAlignment center
+
+"Customer" ->> "Reservation Database" : makes reservation
+
+"Reservation Database" ->> "Waiter" : Marks Customer
+
+Customer ->> "Order Database" : Order Food
+
+Kitchenstaff ->> "Order Database" :Prepare Order
+
+Waiter ->> Customer : Deliver Food
+
+Customer ->> "Order Database" : Make Payment
+
+
+@enduml
+
+PlantUML version 1.2018.13(Mon Nov 26 22:41:51 IST 2018)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 11.0.8+10-post-Ubuntu-0ubuntu120.04
+Operating System: Linux
+OS Version: 5.4.0-47-generic
+Default Encoding: UTF-8
+Language: en
+Country: IN
+-->
+    </g>
+</svg>
